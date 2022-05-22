@@ -8,7 +8,7 @@ Using the theory developed in the Coursera course "Machine Learning by Andrew Ng
 * Polynomial regression
 
 ## 2 Classification
-* TBA
+* Logistic Regression
 
 ## 3 Clustering
 * TBA
