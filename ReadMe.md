@@ -1,4 +1,4 @@
-# Numerical Analysis From Scratch Using Python
+# Machine Learning Algorithms from Scratch
 
 Using the theory developed in the Coursera course "Machine Learning by Andrew Ng" we implement supervised and unsupervised machine learning algorithms from scratch using only NumPy in Python.
 
