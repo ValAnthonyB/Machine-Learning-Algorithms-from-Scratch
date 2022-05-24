@@ -1,4 +1,7 @@
 # Machine Learning Algorithms from Scratch
+<p align="center">
+	<img src="./2 Classification/1 Logistic Regression/logit_application.png" width="600" align="center">
+</p>
 
 Using the theory developed in the Coursera course "Machine Learning by Andrew Ng" we implement supervised and unsupervised machine learning algorithms from scratch using only NumPy in Python.
 
