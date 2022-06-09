@@ -18,4 +18,6 @@ Using the theory developed in the Coursera course "Machine Learning by Andrew Ng
 
 ## 3 Clustering
 * k-Means
+* k-Median
 * Mean Shift
+* Gaussian Mixture Models
