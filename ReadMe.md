@@ -12,10 +12,10 @@ Using the theory developed in the Coursera course "Machine Learning by Andrew Ng
 
 ## 2 Classification
 * Logistic Regression
+* k-Nearest Neighbors
 * Support Vector Machines
 * Artificial Neural Network
 
 ## 3 Clustering
-* k-Nearest Neighbors
 * k-Means
 * Mean Shift
