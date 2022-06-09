@@ -21,3 +21,10 @@ Using the theory developed in the Coursera course "Machine Learning by Andrew Ng
 * k-Median
 * Mean Shift
 * Gaussian Mixture Models
+
+## 4 Gradient Descent Variations
+* Stochastic Gradient Descent
+* Mini-batch Gradient Descent
+
+## Dimensionality Reduction
+* Principal Component Analysis (PCA)
