@@ -13,6 +13,7 @@ Using the theory developed in the Coursera course "Machine Learning by Andrew Ng
 ## 2 Classification
 * Logistic Regression
 * k-Nearest Neighbors
+* Gaussian Discriminant Analysis
 * Naive Bayes
 * Support Vector Machines
 * Artificial Neural Network
