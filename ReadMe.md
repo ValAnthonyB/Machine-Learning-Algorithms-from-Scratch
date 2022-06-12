@@ -14,7 +14,7 @@ Using the theory developed in the Coursera course "Machine Learning by Andrew Ng
 * Logistic Regression
 * k-Nearest Neighbors
 * Gaussian Discriminant Analysis
-* Naive Bayes
+* Näive Bayes
 * Support Vector Machines
 * Artificial Neural Network
 
@@ -22,7 +22,8 @@ Using the theory developed in the Coursera course "Machine Learning by Andrew Ng
 * k-Means
 * k-Medians
 * Mean Shift
-* Gaussian Mixture Models
+* Gaussian Mixture Model
+* DBSCAN
 
 ## 4 Gradient Descent Variations
 * Stochastic Gradient Descent
