@@ -17,6 +17,7 @@ Using the theory developed in the Coursera course "Machine Learning by Andrew Ng
 * Näive Bayes
 * Support Vector Machines
 * Artificial Neural Network
+* Decision Trees
 
 ## 3 Clustering
 * k-Means
@@ -28,6 +29,8 @@ Using the theory developed in the Coursera course "Machine Learning by Andrew Ng
 ## 4 Gradient Descent Variations
 * Stochastic Gradient Descent
 * Mini-batch Gradient Descent
+* Gradient Descent with Momentum
+* BFGS
 
 ## 5 Dimensionality Reduction
 * Principal Component Analysis (PCA)
