@@ -3,12 +3,13 @@
 	<img src="./2 Classification/1 Logistic Regression/logit_application.png" width="600" align="center">
 </p>
 
-Using the theory developed in the Coursera course "Machine Learning by Andrew Ng" we implement supervised and unsupervised machine learning algorithms from scratch using only NumPy in Python.
+Using the theoretical knowledge on machine learning algorithms, we implement various supervised and unsupervised algorithms from scratch using only NumPy in Python.
 
 ## 1 Regression
-* Univariate linear regression
-* Multiple linear regression
-* Polynomial regression
+* Univariate Linear Regression
+* Multiple linear Regression
+* Polynomial Regression
+* SVM Regression
 
 ## 2 Classification
 * Logistic Regression
@@ -24,9 +25,8 @@ Using the theory developed in the Coursera course "Machine Learning by Andrew Ng
 * k-Medians
 * Mean Shift
 * Gaussian Mixture Model
-* DBSCAN
 
-## 4 Gradient Descent Variations
+## 4 Optimization Algorithms
 * Stochastic Gradient Descent
 * Mini-batch Gradient Descent
 * Gradient Descent with Momentum
@@ -34,3 +34,5 @@ Using the theory developed in the Coursera course "Machine Learning by Andrew Ng
 
 ## 5 Dimensionality Reduction
 * Principal Component Analysis (PCA)
+* Kernel PCA
+* Linear Discriminant Analysis (LDA)
