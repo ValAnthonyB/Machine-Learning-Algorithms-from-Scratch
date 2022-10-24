@@ -18,7 +18,8 @@ Using the theoretical knowledge on machine learning algorithms, we implement var
 * Näive Bayes
 * Support Vector Machines
 * Artificial Neural Network
-* Decision Trees
+* Decision Trees (CART & CHAID)
+* Random Forests
 
 ## 3 Clustering
 * k-Means
@@ -29,8 +30,7 @@ Using the theoretical knowledge on machine learning algorithms, we implement var
 ## 4 Optimization Algorithms
 * Stochastic Gradient Descent
 * Mini-batch Gradient Descent
-* Gradient Descent with Momentum
-* BFGS
+* Momentum
 
 ## 5 Dimensionality Reduction
 * Principal Component Analysis (PCA)
