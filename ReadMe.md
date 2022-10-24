@@ -6,7 +6,7 @@
 Using the theoretical knowledge on machine learning algorithms, we implement various supervised and unsupervised algorithms from scratch using only NumPy in Python.
 
 ## 1 Regression
-* Univariate Linear Regression
+* Simple Linear Regression
 * Multiple linear Regression
 * Polynomial Regression
 * SVM Regression
