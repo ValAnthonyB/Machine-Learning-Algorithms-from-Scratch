@@ -13,6 +13,7 @@ Using the theoretical knowledge on machine learning algorithms, we implement var
 
 ## 2 Classification
 * Logistic Regression
+* Softmax Regression
 * k-Nearest Neighbors
 * Gaussian Discriminant Analysis
 * Näive Bayes
@@ -31,6 +32,8 @@ Using the theoretical knowledge on machine learning algorithms, we implement var
 * Stochastic Gradient Descent
 * Mini-batch Gradient Descent
 * Momentum
+* RMSProp
+* Adam
 
 ## 5 Dimensionality Reduction
 * Principal Component Analysis (PCA)
