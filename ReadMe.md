@@ -19,12 +19,11 @@ Using the theoretical knowledge on machine learning algorithms, we implement var
 * Näive Bayes
 * Support Vector Machines
 * Artificial Neural Network
-* Decision Trees (CART & CHAID)
+* Decision Trees
 * Random Forests
 
 ## 3 Clustering
 * k-Means
-* k-Medians
 * Mean Shift
 * Gaussian Mixture Model
 
